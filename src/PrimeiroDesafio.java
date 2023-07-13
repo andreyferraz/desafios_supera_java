@@ -34,5 +34,6 @@ public class PrimeiroDesafio {
         for(int value : values){ 
             System.out.println(value);
         }
+        sc.close();
     }
 }
